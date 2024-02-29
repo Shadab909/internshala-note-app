@@ -1,6 +1,27 @@
-# internshala-notes-app
+# Internshala Notes App
 
-# Light-Mode-Screenshots
+<br><br>
+
+## Technologies Used
+- Material Design
+- Clean Architecture
+- Single Activity Architecture
+- MVVM
+- Google Authentication API
+- SQLite Database
+- RecyclerView 
+- Shared Preferences
+- Navigation Component
+- Data Binding
+- ViewModel
+- Flows
+- Coroutines
+- Lottie
+- Timber
+
+  <br><br>
+
+## Light-Mode-Screenshots
 
 <table>
   <tr>
@@ -22,7 +43,7 @@
 
 <br><br>
 
-# Dark-Mode-Screenshots
+## Dark-Mode-Screenshots
 
 <table>
   <tr>
